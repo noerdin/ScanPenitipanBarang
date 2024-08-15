@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "28507168459",
+    "firebase_url": "https://penitipan-hp-f3962-default-rtdb.firebaseio.com",
+    "project_id": "penitipan-hp-f3962",
+    "storage_bucket": "penitipan-hp-f3962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28507168459:android:7b2c9bebc9b8625f3d454e",
+        "android_client_info": {
+          "package_name": "com.example.penitipanhp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRct_1wCosj2OtpwiYfRJdpa5zSoOlFmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
